@@ -41,7 +41,7 @@ jobs:
     steps:
       - name: Pipeline Summary
         run: |
-          echo "✅ Tests passed!"
-          echo "✅ Docker image built!"
-          echo "✅ Full pipeline complete!"
-          echo "🚀 Sonal's DevOps Pipeline is
+          echo "Tests passed!"
+          echo "Docker image built!"
+          echo "Full pipeline complete!"
+          echo "Sonal DevOps Pipeline is working!"
